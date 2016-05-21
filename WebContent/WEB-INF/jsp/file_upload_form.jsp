@@ -25,7 +25,7 @@ $(document).ready(function() {
 </script>
 </head>
 <body>
-<h1>Spring Multiple File Upload example</h1>
+<h1>Spring Multiple File Upload example.</h1>
 
 <form:form method="post" action="save.html" 
 		modelAttribute="uploadForm" enctype="multipart/form-data">
